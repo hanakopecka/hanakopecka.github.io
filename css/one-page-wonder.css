@@ -3,32 +3,39 @@ body {
 }
 
 .header-image {
-	background: url(http://placehold.it/200x300) repeat;/* Use a tiling background image or a full width image - if you're using full width you will need to change no-repeat center center cover  */
+	/*background: url(http://placehold.it/200x300) repeat;!* Use a tiling background image or a full width image - if you're*/
+	/*using full width you will need to change no-repeat center center cover  *!*/
+	background-color: #d4d0c4;
 	background-position: top;
-	height: auto;
+	height: 180px;
 	display: block;
 	width: 100%;
 	text-align: center;
 }
 
+.tab { margin-left: 32px; }
+
 .headline {
-	padding: 120px 0;
+	padding: 30px 0;
 }
 
 .headline > .container > h1 {
-	font-size: 130px;
+	font-size: 60px;
+	text-align: left;
 	background: #ffffff;
 	background: rgba(255, 255, 255, 0.9);
+	/*display: inline;*/
 }
 
 .headline > .container > h2 {
-	font-size: 77px;
+	font-size: 37px;
+	text-align: left;
 	background: #ffffff;
 	background: rgba(255, 255, 255, 0.9);
 }
 
 .featurette-divider {
-	margin: 80px 0;
+	margin: 30px 0;
 }
 .featurette {
 	overflow: hidden; 
@@ -42,7 +49,7 @@ body {
 }
 
 .featurette-heading {
-	font-size: 50px;
+	font-size: 26px;
 }
 
 footer {
@@ -70,7 +77,7 @@ footer {
 .featurette-image {max-width: 50%;}
 .featurette-image.pull-left {margin-right: 10px;}
 .featurette-image.pull-right {margin-left: 10px;}
-.featurette-heading {font-size: 30px;}
+.featurette-heading {font-size: 20px;}
 
 }
 
