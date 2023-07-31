@@ -478,6 +478,7 @@ cite {
   background-color: #b94a48;
   color: #eeeeee ;
   display: inline;
+  background-size: auto;
 }
 
 .text-primary {
