@@ -28,7 +28,7 @@ body {
 }
 
 .headline > .container > h2 {
-	font-size: 37px;
+	font-size: 30px;
 	text-align: left;
 	background: #ffffff;
 	background: rgba(255, 255, 255, 0.9);
@@ -49,7 +49,7 @@ body {
 }
 
 .featurette-heading {
-	font-size: 26px;
+	font-size: 20px;
 }
 
 footer {
