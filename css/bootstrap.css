@@ -426,7 +426,7 @@ p {
 
 .lead{
   margin-bottom: 10px;
-  font-size: 16px;
+  font-size: 10px;
   font-weight: 700;
   line-height: 1.4;
   /*background-color: #F0A404;*/
@@ -446,13 +446,13 @@ p {
 
 @media (min-width: 768px) {
   .lead {
-    font-size: 21px;
+    font-size: 16px;
   }
 }
 
 @media (min-width: 768px) {
   .lead_nohigh {
-    font-size: 21px;
+    font-size: 16px;
   }
 }
 
